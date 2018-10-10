@@ -1,0 +1,24 @@
+/* must have "." in front to make a class */
+
+.red-fantasy {
+    color: red;
+    font-family: zalgo;
+    font-size: 40px;
+    text-decoration: underline;
+    background-color:#eee;
+    margin: 25px 10px; /* these ^ are all properties*/
+
+}
+
+a {
+    color:green;
+    text-decoration:none;
+}
+
+a:hover {
+    color:purple;
+    cursor: crosshair;
+}
+#top{
+    background-color:#ccc;
+}
